@@ -1,1 +1,6 @@
 * text=auto !eol
+/New[!!-~]Text[!!-~]Document[!!-~]-[!!-~]Copy[!!-~](2).txt -text
+/New[!!-~]Text[!!-~]Document[!!-~]-[!!-~]Copy[!!-~](3).txt -text
+/New[!!-~]Text[!!-~]Document[!!-~]-[!!-~]Copy[!!-~](4).txt -text
+/New[!!-~]Text[!!-~]Document[!!-~]-[!!-~]Copy.txt -text
+/New[!!-~]Text[!!-~]Document.txt -text
